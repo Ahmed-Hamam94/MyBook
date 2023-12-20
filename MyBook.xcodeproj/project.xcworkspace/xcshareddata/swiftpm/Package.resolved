@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "cosmos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/evgenyneu/Cosmos.git",
+      "state" : {
+        "revision" : "cce521e734d0090494bd4afab5fd2e2f2465c1af",
+        "version" : "23.0.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "add0a87ec4e31e2ca2a0b2085f0559201e4f5918",
+        "version" : "7.10.1"
+      }
+    },
+    {
+      "identity" : "reachability.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ashleymills/Reachability.swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a81b7367f2c46875f29577e03a60c39cdfad0c8d"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "c569bec4d04da84030d94f376437bc4efda3686b",
+        "version" : "13.23.1"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "95cb711d60801e82542b866d16d75608c40d7b2e"
+      }
+    },
+    {
+      "identity" : "swiftmessages",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftKickMobile/SwiftMessages",
+      "state" : {
+        "revision" : "62e12e138fc3eedf88c7553dd5d98712aa119f40",
+        "version" : "9.0.9"
+      }
+    }
+  ],
+  "version" : 2
+}

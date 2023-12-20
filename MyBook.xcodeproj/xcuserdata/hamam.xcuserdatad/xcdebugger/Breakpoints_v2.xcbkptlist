@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4EB52B7A-1C00-47C3-8157-F458719607AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B921874-48D8-4553-9C2F-3815CE39F202"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "showMessage(isConnected:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77FB7A4C-20FD-4061-A2B6-FD959BB0DCF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "showBackGroundView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF8D7F1B-0B7D-4719-B6A4-AE832F9069B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "showMessage(isConnected:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF8D7F1B-0B7D-4719-B6A4-AE832F9069B8 - 6db8c56b2c59190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListPresenter.showMessage(isConnected: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "BF8D7F1B-0B7D-4719-B6A4-AE832F9069B8 - 6db8c56b2c591b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListPresenter.showMessage(isConnected: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "BF8D7F1B-0B7D-4719-B6A4-AE832F9069B8 - 6db8c56b2c5911c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListPresenter.showMessage(isConnected: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "BF8D7F1B-0B7D-4719-B6A4-AE832F9069B8 - 6db8c56b2c59298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListPresenter.showMessage(isConnected: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB25B023-B147-4AC8-85FB-897E7CD5483B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/View/BookListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "viewControllerWillShowBackGround(_:show:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB25B023-B147-4AC8-85FB-897E7CD5483B - 65ccf82b7f9313dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListViewController.viewControllerWillShowBackGround(_: MyBook.BookListPresenter, show: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/View/BookListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "EB25B023-B147-4AC8-85FB-897E7CD5483B - 65ccf82b7f93139f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListViewController.viewControllerWillShowBackGround(_: MyBook.BookListPresenter, show: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/View/BookListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "EB25B023-B147-4AC8-85FB-897E7CD5483B - 65ccf82b7f93137e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListViewController.viewControllerWillShowBackGround(_: MyBook.BookListPresenter, show: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/View/BookListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "EB25B023-B147-4AC8-85FB-897E7CD5483B - 65ccf82b7f9310ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListViewController.viewControllerWillShowBackGround(_: MyBook.BookListPresenter, show: Swift.Bool) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/View/BookListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03F4DBB2-291C-4209-8A92-C08E45196FC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03F4DBB2-291C-4209-8A92-C08E45196FC3 - 4d29705e96962e84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "03F4DBB2-291C-4209-8A92-C08E45196FC3 - 4d29705e96962e84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "03F4DBB2-291C-4209-8A92-C08E45196FC3 - 4d29705e96962e29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "03F4DBB2-291C-4209-8A92-C08E45196FC3 - 4d29705e96962e29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A05D9540-A621-4C5C-AA29-18C738DB0ECC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE759C5C-EE54-49E2-9294-BC6C6E633A1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/View/BookListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "collectionWillShowBackGroundView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE759C5C-EE54-49E2-9294-BC6C6E633A1C - c59839fd8a4eaec7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListViewController.collectionWillShowBackGroundView(MyBook.BookListPresenter) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/View/BookListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "CE759C5C-EE54-49E2-9294-BC6C6E633A1C - c59839fd8a4eaea6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListViewController.collectionWillShowBackGroundView(MyBook.BookListPresenter) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/View/BookListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "CE759C5C-EE54-49E2-9294-BC6C6E633A1C - c59839fd8a4eab0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyBook.BookListViewController.collectionWillShowBackGroundView(MyBook.BookListPresenter) -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/View/BookListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AA43F69-CDA7-4513-976E-6DA953CD0E32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5AA43F69-CDA7-4513-976E-6DA953CD0E32 - 4d29705e96962e4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "5AA43F69-CDA7-4513-976E-6DA953CD0E32 - 4d29705e96962e4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "5AA43F69-CDA7-4513-976E-6DA953CD0E32 - 4d29705e96962e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFB7D5C2-C8F1-446F-BA92-1AAC6766C2CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFB7D5C2-C8F1-446F-BA92-1AAC6766C2CC - 4d29705e96962e08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "AFB7D5C2-C8F1-446F-BA92-1AAC6766C2CC - 4d29705e96962e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "AFB7D5C2-C8F1-446F-BA92-1AAC6766C2CC - 4d29705e96962dad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "AFB7D5C2-C8F1-446F-BA92-1AAC6766C2CC - 4d29705e96962dad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "AFB7D5C2-C8F1-446F-BA92-1AAC6766C2CC - 4d29705e96962dad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "AFB7D5C2-C8F1-446F-BA92-1AAC6766C2CC - 4d29705e96962d8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;MyBook.MyBook&gt;) -&gt; () in MyBook.BookListPresenter.fetchBooks() -&gt; ()"
+                  moduleName = "MyBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamam/Documents/Swift/MyBook/MyBook/MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D8FA7FD-4835-4850-9BF5-99DB64538AEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/View/BookListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7BCBB9C-738D-4768-BAEC-416ECEED04E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/View/BookListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7417A38D-729C-4E5F-99BE-ACD2BA55992D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookList/Presenter/BookListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchBooks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBD6BC37-BAF7-4C83-9B7A-7BD8B1110D3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyBook/Module/BookDetails/View/BookDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "toggleFavourite(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
