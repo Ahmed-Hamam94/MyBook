@@ -60,6 +60,8 @@
 		F7C96AF82B25FCD700E10BF0 /* BookListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7C96AF62B25FCD700E10BF0 /* BookListViewController.xib */; };
 		F7C96AFC2B2614A900E10BF0 /* BookListCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C96AFA2B2614A900E10BF0 /* BookListCollectionViewCell.swift */; };
 		F7C96AFD2B2614A900E10BF0 /* BookListCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7C96AFB2B2614A900E10BF0 /* BookListCollectionViewCell.xib */; };
+		F7E878962B33770600EF2A38 /* EmptyFavoritesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7E878942B33770600EF2A38 /* EmptyFavoritesTableViewCell.swift */; };
+		F7E878972B33770600EF2A38 /* EmptyFavoritesTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7E878952B33770600EF2A38 /* EmptyFavoritesTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -132,6 +134,8 @@
 		F7C96AF62B25FCD700E10BF0 /* BookListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BookListViewController.xib; sourceTree = "<group>"; };
 		F7C96AFA2B2614A900E10BF0 /* BookListCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookListCollectionViewCell.swift; sourceTree = "<group>"; };
 		F7C96AFB2B2614A900E10BF0 /* BookListCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BookListCollectionViewCell.xib; sourceTree = "<group>"; };
+		F7E878942B33770600EF2A38 /* EmptyFavoritesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmptyFavoritesTableViewCell.swift; sourceTree = "<group>"; };
+		F7E878952B33770600EF2A38 /* EmptyFavoritesTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EmptyFavoritesTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -387,6 +391,7 @@
 		F7A62A9F2B290155001AD40D /* Cell */ = {
 			isa = PBXGroup;
 			children = (
+				F7E878932B3376E000EF2A38 /* EmptyFavoriteCell */,
 				F7E878592B33593000EF2A38 /* BookTablViewCell */,
 			);
 			path = Cell;
@@ -484,6 +489,15 @@
 				F7A62AA12B29016E001AD40D /* BookTableViewCell.xib */,
 			);
 			path = BookTablViewCell;
+			sourceTree = "<group>";
+		};
+		F7E878932B3376E000EF2A38 /* EmptyFavoriteCell */ = {
+			isa = PBXGroup;
+			children = (
+				F7E878942B33770600EF2A38 /* EmptyFavoritesTableViewCell.swift */,
+				F7E878952B33770600EF2A38 /* EmptyFavoritesTableViewCell.xib */,
+			);
+			path = EmptyFavoriteCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -607,6 +621,7 @@
 				F7A283C22B25DBF100EE6EAF /* Assets.xcassets in Resources */,
 				F7C96AF82B25FCD700E10BF0 /* BookListViewController.xib in Resources */,
 				F7A62AA32B29016E001AD40D /* BookTableViewCell.xib in Resources */,
+				F7E878972B33770600EF2A38 /* EmptyFavoritesTableViewCell.xib in Resources */,
 				F7A88DC92B271FB6007B0627 /* BookDetailsViewController.xib in Resources */,
 				F7C96AFD2B2614A900E10BF0 /* BookListCollectionViewCell.xib in Resources */,
 				F7A283F32B25DD1E00EE6EAF /* HomeViewController.xib in Resources */,
@@ -650,6 +665,7 @@
 				F7A283B92B25DBEE00EE6EAF /* AppDelegate.swift in Sources */,
 				F7A283BB2B25DBEE00EE6EAF /* SceneDelegate.swift in Sources */,
 				F7A62A9A2B28E0CA001AD40D /* Book.swift in Sources */,
+				F7E878962B33770600EF2A38 /* EmptyFavoritesTableViewCell.swift in Sources */,
 				F7A2840E2B25DDE800EE6EAF /* UIView+Extension.swift in Sources */,
 				F7A284012B25DDC800EE6EAF /* Methods.swift in Sources */,
 				F7A284062B25DDDA00EE6EAF /* DesignSystem.swift in Sources */,
